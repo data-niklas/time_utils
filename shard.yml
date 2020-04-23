@@ -1,0 +1,9 @@
+name: time_utils
+version: 0.1.0
+
+authors:
+  - Niklas Loeser <niklas@4loeser.net>
+
+crystal: 0.33.0
+
+license: MIT

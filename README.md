@@ -30,7 +30,7 @@ timer2.run
 
 Javascript like methods are exposed
 
-```
+```crystal
 setTimeout(1000) do |timer|
   puts "1 second"
 end
@@ -38,7 +38,7 @@ end
 
 Recurring events:
 
-```
+```crystal
 Timer.run(5.seconds,true) do |timer|
   puts "Every 5 seconds"
 end
